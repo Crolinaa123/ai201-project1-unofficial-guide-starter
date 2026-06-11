@@ -1,0 +1,13 @@
+What I’d recommend is taking heavy CS classes. System Administration, Advanced Programming in a UNIX environment, and Cloud and Enterprise security are phenomenal but also rly rough. IMO, cyber isn’t a field in and of itself, but more so, every field has a cyber aspect to it. Focus on networking, IT, and honestly follow all of your curiosities and go down rabbit holes.
+
+ I’d recommend going to netmeister.org, or just googling cs631/cs615 to see what courses are about. All the lectures and materials are online. Prof is a CISO and has a lot of industry experience
+
+ Cybersecurity isn’t “bad”, did they mean as an industry in general or like the degree at stevens? Both are really good. Harder than Computer science and pays better
+
+ The cybersecurity degree at Stevens is bad. Besides the cyberhack in 2019, the cybersecurity faculty are below average for Stevens professor standards most notably nicolosi. Better chance the cybersecurity adjuncts are better than the cyber full-time cyber faculty.
+
+ CS is a better program here due to its flexibility compared to the cyber major
+
+ Quantitative finance might be one… if cs doesn’t work out at least you can fall back on the finance industry
+
+ 

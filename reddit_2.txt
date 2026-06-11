@@ -1,0 +1,7 @@
+I think if you can do an elective, then the easier class would be MIS 630 Data Mgmt if you absolutely want SQL. CS 561 homework and exams use PostgreSQL and are pretty difficult/time-consuming.
+
+DBMS requires a lot of work but is a good class. If you have any electives left, then take one from a different branch so that you can take it easy.
+
+cs 513 is an easy A
+CS 561 has only 2 homeworkswhich you discuss and understand with your friends. If you have prior SQL knowledge, you are good to go. I studied 2 days before my mids and finals which gave me above avg marks and as the professor curves the grade I got an A-. It would still require some effort tho
+
