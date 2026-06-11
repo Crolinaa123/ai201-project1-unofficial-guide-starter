@@ -74,7 +74,7 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Is Professor Akum a good professor for CS115?| Yes, she has a fun personality, and is very engaging with her lectures and dosen't overcomplicate complex topics.|
+| 1 | Is Professor Zumrat a good professor?| Yes, she has a fun personality, and is very engaging with her lectures and dosen't overcomplicate complex topics.|
 | 2 | Does Professor Ossowski give out hard exams?| His exams can be tough, but he does tend to curve if needed and if you pay attention to his lectures and follow along, you should be in good shape.|
 | 3 | Is CS496 a hard course? | It can get quite diffcult, since it consists of complex topics. However, Professor Bonelli is a great lecturer, and is available whenever you have any questions.|
 | 4 | What do students say about internship opportunities for Stevens CS students? | Stevens is a small, expensive school near NYC with strong CS internship oppurtunities and a motivated student body; location is its biggest advantage. |
