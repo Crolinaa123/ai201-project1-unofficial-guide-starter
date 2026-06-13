@@ -81,7 +81,7 @@
      Do not just say "I told it to use the documents" — show the actual instruction or explain
      the mechanism. -->
 
-**System prompt grounding instruction:Answer the questino using ONLY the information in the provided documents. If the documents don't contain enough information to answer, say "I don't have enough information on that". Always cite which source(s) your answer comes from.**
+**System prompt grounding instruction:Answer the question using ONLY the information in the provided documents. If the documents don't contain enough information to answer, say "I don't have enough information on that". Always cite which source(s) your answer comes from.**
 
 **How source attribution is surfaced in the response:The source filenames are retrieved form ChromaDB metadata alongside each chunk.After generation, the unique source filenames are collected and displayes in a seperate "Retrieved from" field in the Gradio interface, so users can always see which documents the answer drew from.**
 
