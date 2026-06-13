@@ -78,7 +78,7 @@
 | 2 | Does Professor Ossowski give out hard exams?| His exams can be tough, but he does tend to curve if needed and if you pay attention to his lectures and follow along, you should be in good shape.|
 | 3 | Is CS496 a hard course? | It can get quite diffcult, since it consists of complex topics. However, Professor Bonelli is a great lecturer, and is available whenever you have any questions.|
 | 4 | What do students say about internship opportunities for Stevens CS students? | Stevens is a small, expensive school near NYC with strong CS internship oppurtunities and a motivated student body; location is its biggest advantage. |
-| 5 | Is CS334 a hard course? | Students consistently rate CS334 are extremely difficult with unfair grading, for instance, exams and problem sets are extremely difficult, TAs can grade quite harshly, and most recommended taking Jacek instead for a better grade and less stress. |
+| 5 | Is Sandeep a bad professor? | Students consistently rate CS334 are extremely difficult with unfair grading, for instance, exams and problem sets are extremely difficult, TAs can grade quite harshly, and most recommended taking Jacek instead for a better grade and less stress. |
 
 ---
 
